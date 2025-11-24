@@ -1,0 +1,4 @@
+Category,Budget
+Health,250000
+Bills,1
+Entertainment,580000

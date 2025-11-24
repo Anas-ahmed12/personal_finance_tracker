@@ -1,0 +1,9 @@
+Date,Type,Category,Amount,Description
+2025-11-24,Income,Freelance,0,100000000.0
+2025-11-24,Income,Salary,10000000,nan
+2025-11-24,Income,Salary,10000000,nan
+2025-11-24,Income,Salary,10000000,nan
+2025-11-24,Expense,Transport,50000,nan
+2025-11-24,Expense,Food,1,nan
+2025-11-24,Expense,Food,1,
+2025-11-08,Income,Salary,360000,Shopping
